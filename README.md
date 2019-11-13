@@ -6,5 +6,5 @@
 ### Description
 #### This program detects the drowsiness of a driver in real time with using OpenCV Python.
 ### Reference
-#### [Deepgaze] (https://github.com/mpatacchiola/deepgaze)
-#### [PyImageSearch] (https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
+#### [Deepgaze](https://github.com/mpatacchiola/deepgaze)
+#### [PyImageSearch](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
