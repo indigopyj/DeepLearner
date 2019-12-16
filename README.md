@@ -16,7 +16,7 @@
 ============================================================
 <div>
   <img width= 500 src="https://user-images.githubusercontent.com/17904547/70920798-79c61880-2066-11ea-8216-44690f13286f.png">
-  <h3>[pic 1] Flow chart of optimization<br></h3>
+  <h5>[pic 1] Flow chart of optimization<br></h5>
   <img width = 300 src="https://user-images.githubusercontent.com/17904547/70920824-877b9e00-2066-11ea-9a1a-268e99d7fbfb.png">
-  <h3>[pic 2] Flow chart of detection of drawsiness<br></h3>
+  <h5>[pic 2] Flow chart of detection of drawsiness<br></h5>
   </div>
