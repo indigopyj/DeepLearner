@@ -15,6 +15,8 @@
 ### Flow Charts
 =============
 <div>
-  <img src="https://user-images.githubusercontent.com/17904547/70920798-79c61880-2066-11ea-8216-44690f13286f.png">
-  <img src="https://user-images.githubusercontent.com/17904547/70920824-877b9e00-2066-11ea-9a1a-268e99d7fbfb.png">
+  <img width= 500 src="https://user-images.githubusercontent.com/17904547/70920798-79c61880-2066-11ea-8216-44690f13286f.png">
+  <h1>[pic 1] Flow chart of optimization<br></h1>
+  <img width = 300 src="https://user-images.githubusercontent.com/17904547/70920824-877b9e00-2066-11ea-9a1a-268e99d7fbfb.png">
+  <h1>[pic 2] Flow chart of detection of drawsiness<br></h1>
   </div>
